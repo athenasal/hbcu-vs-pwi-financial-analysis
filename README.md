@@ -2,7 +2,7 @@
 
 ## Analysis Question
 
-Do black students face greater student loan debt when they attend an HBCU or PWI? Using the College Scorecard dataset, I am investigating if HBCUs are the better alternative financially for black students. 
+Do students face greater student loan debt when they attend an HBCU or PWI? Using the College Scorecard dataset, I am investigating if HBCUs are the better alternative financially for students. 
 
 ## About the Dataset
 
